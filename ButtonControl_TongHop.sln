@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonControl_TongHop", "ButtonControl_TongHop\ButtonControl_TongHop.csproj", "{2CCD2BC7-D08C-413D-91BB-D901EB6E207E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check Box Sự Kiện", "Check Box Sự Kiện\Check Box Sự Kiện.csproj", "{6BEA1685-9E66-4A29-9F7C-1CB9C0E7B1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButton Control", "RadioButton Control\RadioButton Control.csproj", "{DC84B978-72E6-4EE1-B238-74CDD7A7D631}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2CCD2BC7-D08C-413D-91BB-D901EB6E207E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CCD2BC7-D08C-413D-91BB-D901EB6E207E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CCD2BC7-D08C-413D-91BB-D901EB6E207E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BEA1685-9E66-4A29-9F7C-1CB9C0E7B1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BEA1685-9E66-4A29-9F7C-1CB9C0E7B1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BEA1685-9E66-4A29-9F7C-1CB9C0E7B1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BEA1685-9E66-4A29-9F7C-1CB9C0E7B1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC84B978-72E6-4EE1-B238-74CDD7A7D631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC84B978-72E6-4EE1-B238-74CDD7A7D631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC84B978-72E6-4EE1-B238-74CDD7A7D631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC84B978-72E6-4EE1-B238-74CDD7A7D631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
