@@ -27,6 +27,23 @@
                 </RadioButton>
             </StackPanel>
         </GroupBox>
-        <GroupBox Header="Giới tính của bạn là gì"></GroupBox>
+        <GroupBox Header="Giới tính của bạn là gì">
+            <StackPanel>
+                <RadioButton GroupName="gioitinh"
+                             Name="radNam">Nam</RadioButton>
+                <RadioButton GroupName="gioitinh"
+                             Name="radNu">Nữ</RadioButton>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Chọn tác vụ:">
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Gửi phản hồi" Name="btnGui"
+                        Width="100" Margin="10,0"
+                        Click="BtnGui_Click"></Button>
+                <Button Content="Hủy" Name="btnHuy"
+                        Width="100"
+                        Click="BtnHuy_Click"></Button>
+            </StackPanel>
+        </GroupBox>
     </StackPanel>
 </Window>
